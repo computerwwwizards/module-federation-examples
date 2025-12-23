@@ -1,5 +1,5 @@
 {
-  "name": "Node rust pnpm Dev Container",
+  "name": "Node rust pnpm Dev Container mf examples",
   "dockerComposeFile": ["./docker-compose.yml"],
   "service": "dev",
   "customizations": {

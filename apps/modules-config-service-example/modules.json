@@ -1,0 +1,9 @@
+{
+  "modules": [
+    {
+      "name": "federatedCalculatorExample",
+      "version": "1",
+      "entry": "http://localhost:3002/mf-manifest.json"
+    }
+  ]
+}
